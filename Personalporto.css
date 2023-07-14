@@ -1,0 +1,82 @@
+*, html , body {
+    margin: 0;
+    padding: 0;
+    box-sizing: none;
+}
+
+
+
+.container {
+    font-family: 'Mukta', sans-serif;
+    font-size: 24px;
+    margin: 50px;
+   
+}
+
+.btn {
+    background-color: #27374D;
+}
+
+.info {
+    background-color: #DDE6ED;
+    border: none;
+    border-radius: 24px;
+    font-size: 18px;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold;
+    margin: 12px;
+    padding: 12px;
+}
+
+.contact {
+    border: none;
+    border-radius: 24px;
+    background-color: #DDE6ED;
+    font-size: 18px;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold;
+    margin: 12px;
+    padding: 12px;
+}
+
+.rating {
+    border: none;
+    border-radius: 24px;
+    background-color: #DDE6ED;
+    font-size: 18px;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold;
+    margin: 12px;
+    padding: 12px;
+}
+
+.info:hover {
+    cursor: pointer;
+}
+
+.contact:hover {
+    cursor: pointer;
+}
+
+.rating:hover {
+    cursor: pointer;
+}
+
+body {
+    background-color: #9DB2BF;
+}
+
+.Foto {
+    display: flex;
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.icons {
+    font-size: 100px;
+    margin: 10px;
+}
